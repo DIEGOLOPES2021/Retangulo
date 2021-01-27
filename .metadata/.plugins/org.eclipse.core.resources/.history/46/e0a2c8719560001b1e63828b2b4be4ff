@@ -1,0 +1,11 @@
+package br.com.empresa.model;
+
+public class Retangulo {
+
+	private double altura;
+	private double base;
+	
+	public void setAltura(double altura){
+		this.altura = altura;
+	}
+}

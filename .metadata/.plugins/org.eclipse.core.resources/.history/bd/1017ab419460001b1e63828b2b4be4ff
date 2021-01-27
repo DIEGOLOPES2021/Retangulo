@@ -1,0 +1,7 @@
+package br.com.empresa.model;
+
+public class Retangulo {
+
+	private double altura;
+	private double base;
+}
